@@ -1,10 +1,4 @@
 
-#'pip install streamlit'
-#'pip install scikit-learn'
-#'pip install matplotlib'
-#'pip install pandas'
-
-
 # Importando as bibliotecas
 
 from sklearn.tree import DecisionTreeClassifier
